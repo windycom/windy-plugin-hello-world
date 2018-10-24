@@ -1,0 +1,24 @@
+{
+  "name": "windy-plugin-hello-world",
+  "version": "1.0.0",
+  "description": "The most simple, Windy plugin example",
+  "main": "dist/plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windycom/windy-plugin-hello-world.git"
+  },
+  "keywords": [
+    "windy",
+    "plugin",
+    "windy.com"
+  ],
+  "author": "Windyty, S.E.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/windycom/windy-plugin-hello-world/issues"
+  },
+  "homepage": "https://github.com/windycom/windy-plugin-hello-world#readme"
+}
