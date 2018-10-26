@@ -7,14 +7,14 @@
 W.loadPlugin(
 /* Mounting options */
 {
-  "name": "windy-plugin-example",
-  "version": "1.1.0",
+  "name": "windy-plugin-hello-world",
+  "version": "1.2.0",
   "author": "Windyty, S.E.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/windycom/windy-plugins"
+    "url": "git+https://github.com/windycom/windy-plugin-hello-world"
   },
-  "description": "Windy plugin system enables anyone, with basic knowledge of Javascript to enhance Windy with new functionality (default desc).",
+  "description": "Minimalistic example plugin",
   "displayName": "Hello world",
   "hook": "menu"
 },
